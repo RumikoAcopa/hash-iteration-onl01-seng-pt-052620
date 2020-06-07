@@ -19,13 +19,9 @@ def select_winner(passengers)
     if suite == :suite_a && name.start_with?("A")
       winner = name
     end
-<<<<<<< HEAD
   end
   return winner
-=======
-    return winner
   end
->>>>>>> d276f2b4d909d3d29426c86a7d4f55e9ca552363
 end#winner
   # passengers = {
 # suite_a: "Amanda Presley",
