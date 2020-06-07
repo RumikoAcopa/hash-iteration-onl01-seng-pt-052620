@@ -12,4 +12,3 @@ describe "#happy_birthday" do
 
   end
 end
-
